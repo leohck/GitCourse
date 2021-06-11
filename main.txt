@@ -1,1 +1,4 @@
-today we are learning about git and github.
+Today we are learning about git and github.
+
+Thanks
+Regards
